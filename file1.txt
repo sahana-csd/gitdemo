@@ -1,0 +1,10 @@
+Hi im trying to add some data to this file.
+
+
+Keeps record of changes
+Allows multiple developers to work together
+Helps undo mistakes
+Prevents code overwrite
+Enables branching & merging
+Improves collaboration
+
